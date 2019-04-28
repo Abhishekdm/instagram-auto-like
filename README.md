@@ -1,7 +1,7 @@
 # instagram-auto-like
 javascript to like posts on instagram
 
-#Steps
+# Steps
 1.open instagram on desktop
 2. using inspect(ctrl+shift+i) navigate to console 
 3. copy and paste the available js code in the console and press and enter.
